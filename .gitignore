@@ -1,0 +1,5 @@
+/backend/src/vendor
+/backend/src/Gopkg.lock
+/backend/src/Gopkg.toml
+
+/frontend/node_modules
